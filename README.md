@@ -1,7 +1,3 @@
-Here's a detailed README file for the code in the GitHub repository "CreditRiskEstimation," specifically for the notebook "Boosting_Ensemble.ipynb":
-
----
-
 # Credit Risk Estimation using Boosting Ensemble Methods
 
 This repository contains code for estimating credit risk using various boosting ensemble methods. The primary focus is on utilizing machine learning algorithms to predict the likelihood of credit default based on historical data.
